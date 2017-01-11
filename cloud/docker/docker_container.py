@@ -419,7 +419,7 @@ options:
     required: false
   tty:
     description:
-      - Allocate a psuedo-TTY.
+      - Allocate a pseudo-TTY.
     default: false
     required: false
   ulimits:
